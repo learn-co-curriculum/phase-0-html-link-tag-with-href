@@ -2,12 +2,13 @@
 
 ## Objectives
 
-1. Code an `h1` tag in `index.html`
-2. Make the inner text of the `h1` Hello, World!
+1. Code an `a`nchor tag that defines an HTML hyperlink.
 
 ## Instructions
 
-Open `index.html` in your text editor. Add an `h1` tag with the inner text of `Hello, World!` anywhere in the file. You can run the tests with this lab via `learn`. Read the error messages in your tests, they contain hints!
+Open `index.html` in your text editor. Add an `a` tag with the inner text of `Flatiron School` anywhere in the file. Then set the `href` attribute of your new link element to `https://flatironschool.com`.
+
+You can run the tests with this lab via `learn`. Make sure you save the file before running the test suite. Failing tests will provide helpful error messages that you can use to debug your code — read them closely for hints!
 
 ## Viewing your work in the browser
 
@@ -19,4 +20,4 @@ Once you have the HTML document open in your browser, you can make changes to it
 
 ## Resources
 
-* [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
+* [W3S — HTML `<a>` Tag](https://www.w3schools.com/tags/tag_a.asp)
