@@ -1,6 +1,8 @@
 # Create an `<a>` Tag with an `href` Attribute
 
-## Students will be able to ...
+
+
+## Objectives
 
 1. Code an `a`nchor tag that defines an HTML hyperlink
 
