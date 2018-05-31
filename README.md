@@ -1,6 +1,8 @@
 # Create an `<a>` Tag with an `href` Attribute
 
+## Problem Statement
 
+We've got our HTML tags and we've got our HTML tag attributes. How do we use them together? We can figure it out by exploring the `a` tag and creating a link.
 
 ## Objectives
 
