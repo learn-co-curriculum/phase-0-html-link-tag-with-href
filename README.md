@@ -10,7 +10,8 @@ We've got our HTML tags and we've got our HTML tag attributes. How do we use the
 
 ## Use a `a` Tag to Create a Link
 
-Open `index.html` in your text editor. Add an `a` tag with the inner text of
+Open `index.html` in your text editor. Add an `a` tag with the inner text (the
+text between the `<a>` tag and the `</a>` tag) of
 `Flatiron School` anywhere in the file. Then set the `href` attribute of your
 new link element to `https://flatironschool.com`.
 
