@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Write an `a`nchor tag to create a link
+- Write an `a` tag to create a link
 
 ## Introduction
 
