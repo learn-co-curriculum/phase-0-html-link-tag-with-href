@@ -13,9 +13,9 @@ link.
 ## Write an `a` Tag to Create a Link
 
 Open `index.html` in your text editor. Add an `a` tag with the inner text (the
-text between the `<a>` tag and the `</a>` tag) of
-`Flatiron School` anywhere in the file. Then set the `href` attribute of your
-new link element to `https://flatironschool.com`.
+text between the `<a>` tag and the `</a>` tag) of `Flatiron School` anywhere in
+the file. Then set the `href` attribute of your new link element to
+`https://flatironschool.com`.
 
 You can run the tests with this lab via `learn`. Make sure you save the file
 before running the test suite. Failing tests will provide helpful error messages
@@ -29,9 +29,9 @@ terminal to check your work.
 
 Another great way to track your progress is to open up the HTML document in your
 browser and watch how each change you make in the text editor affects the visual
-layout in the browser. Do that by running the `httpserver` command in the browser
-and then copy the URL from the terminal and then pasting that into your web 
-browser followed by the path to the file you want to view.
+layout in the browser. Do that by running the `httpserver` command in the
+browser and then copy the URL from the terminal and then pasting that into your
+web browser followed by the path to the file you want to view.
 
 Once you have the HTML document open in your browser, you can make changes to it
 in the text editor, save the file, refresh the page in the browser, and see the
@@ -43,6 +43,7 @@ changes instantly.
 
 ## Conclusion
 
-Here we saw how an attribute helps the `a` tag do its job, which is to link to another location. Now we can go on to explore some additional HTML tags.
+Here we saw how an attribute helps the `a` tag do its job, which is to link to
+another location. Now we can go on to explore some additional HTML tags.
 
 [pview]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
