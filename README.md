@@ -17,7 +17,7 @@ text between the `<a>` tag and the `</a>` tag) of `Flatiron School` anywhere in
 the file. Then set the `href` attribute of your new link element to
 `https://flatironschool.com`.
 
-You can run the tests with this lab via `learn`. Make sure you save the file
+You can run the tests with this lab via `learn test`. Make sure you save the file
 before running the test suite. Failing tests will provide helpful error messages
 that you can use to debug your code — read them closely for hints!
 
