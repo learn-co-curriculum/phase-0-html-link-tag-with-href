@@ -53,11 +53,11 @@ changes.
 
 > **Note:** If you are using the Learn.co in-browser IDE, in the terminal, type
 > `httpserver`. The terminal will output a URL, something like:
->
+
 > ```text
 > http://67.205.188.72:40978
 > ```
->
+
 > Copy this into a new browser window or tab to view the `index.html` file.
 
 ## Resources
