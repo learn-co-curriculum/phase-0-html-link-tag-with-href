@@ -1,4 +1,4 @@
-# Create a Link Tag with an 'href' Attribute
+# Create a Link Using the 'href' Attribute
 
 ## Learning Goals
 
