@@ -1,4 +1,4 @@
-# Create an `<a>` Tag with an `href` Attribute
+# Create an <a> Tag with an href Attribute
 
 ## Learning Goals
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-We've got our HTML tags and we've got our HTML tag attributes. How do we use
+We've got our HTML tags, and we've got our HTML tag attributes. How do we use
 them together? We can figure it out by exploring the `a` tag and creating a
 link.
 
@@ -24,18 +24,41 @@ that you can use to debug your code — read them closely for hints!
 ### Viewing Your Work in the Browser
 
 While working through these assignments, your general workflow should center on
-writing code in the text editor and periodically running the test suite in the
-terminal to check your work.
+writing code in the text editor and checking to see what it looks like
+in-browser.
 
-Another great way to track your progress is to open up the HTML document in your
-browser and watch how each change you make in the text editor affects the visual
-layout in the browser. Do that by running the `httpserver` command in the
-browser and then copy the URL from the terminal and then pasting that into your
-web browser followed by the path to the file you want to view.
+Working in your local environment, you can open `index.html` a few ways, depending
+on the environment you are in:
+
+For Mac users:
+
+- Open from the Terminal by running `open index.html` in the root directory
+  of this lab
+- Use Finder to navigate to this lab's local folder and click the `index.html`
+  file
+
+For WSL users:
+
+- Open from Ubuntu by running `explorer.exe index.html` in the root directory of
+  this lab
+- Open a new Explorer window. There is a bar that says "Quick Access" along the
+  top of the window (similar to a URL bar in a browser). Click this and type
+  `\\wsl$` to access files and folders on Ubuntu. Navigate to
+  `/home/<your-user-name>/` to get your home directory, then locate this labs
+  local folder and click the `index.html` file.
 
 Once you have the HTML document open in your browser, you can make changes to it
-in the text editor, save the file, refresh the page in the browser, and see the
-changes instantly.
+in a text editor, save the file, refresh the page in the browser, and see the
+changes.
+
+> **Note:** If you are using the Learn.co in-browser IDE, in the terminal, type
+> `httpserver`. The terminal will output a URL, something like:
+>
+> ```text
+> http://67.205.188.72:40978
+> ```
+>
+> Copy this into a new browser window or tab to view the `index.html` file.
 
 ## Resources
 
@@ -46,7 +69,4 @@ changes instantly.
 Here we saw how an attribute helps the `a` tag do its job, which is to link to
 another location. Now we can go on to explore some additional HTML tags.
 
-[pview]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
-
-
-
+[pview]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide  
