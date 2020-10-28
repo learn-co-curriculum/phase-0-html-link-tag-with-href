@@ -1,4 +1,4 @@
-# Create an `<a>` Tag with an `href` Attribute
+# Create an <a> Tag with an href Attribute
 
 ## Learning Goals
 
