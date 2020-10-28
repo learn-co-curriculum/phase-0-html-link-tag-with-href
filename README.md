@@ -58,7 +58,8 @@ changes.
 > http://67.205.188.72:40978
 > ```
 
-> Copy this into a new browser window or tab to view the `index.html` file.
+> Copy this into a new browser window or tab to view the `index.html` file. For
+> more information, [check out this help article](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide).
 
 ## Resources
 
