@@ -44,7 +44,7 @@ For WSL users:
 - Open a new Explorer window. There is a bar that says "Quick Access" along the
   top of the window (similar to a URL bar in a browser). Click this and type
   `\\wsl$` to access files and folders on Ubuntu. Navigate to
-  `/home/<your-user-name>/` to get your home directory, then locate this labs
+  `/home/<your-user-name>/` to get to your home directory, then locate this lab's
   local folder and click the `index.html` file.
 
 Once you have the HTML document open in your browser, you can make changes to it
