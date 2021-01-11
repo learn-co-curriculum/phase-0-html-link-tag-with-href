@@ -10,6 +10,12 @@ We've got our HTML tags, and we've got our HTML tag attributes. How do we use
 them together? We can figure it out by exploring the `a` tag and creating a
 link.
 
+## Getting Started
+
+Fork and clone this lesson into your local environment. Navigate into its
+directory in the terminal, then run `code .` to open the files in Visual Studio
+Code. Finally, run `bundle` to install the lab's dependencies.
+
 ## Write an `a` Tag to Create a Link
 
 Open `index.html` in your text editor. Add an `a` tag with the inner text (the
@@ -17,7 +23,7 @@ text between the `<a>` tag and the `</a>` tag) of `Flatiron School` anywhere in
 the file. Then set the `href` attribute of your new link element to
 `https://flatironschool.com`.
 
-You can run the tests with this lab via `learn test`. Make sure you save the file
+You can run the tests with this lab via the `rspec` command. Make sure you save the file
 before running the test suite. Failing tests will provide helpful error messages
 that you can use to debug your code — read them closely for hints!
 
@@ -50,16 +56,6 @@ For WSL users:
 Once you have the HTML document open in your browser, you can make changes to it
 in a text editor, save the file, refresh the page in the browser, and see the
 changes.
-
-> **Note:** If you are using the Learn.co in-browser IDE, in the terminal, type
-> `httpserver`. The terminal will output a URL, something like:
-
-> ```text
-> http://67.205.188.72:40978
-> ```
-
-> Copy this into a new browser window or tab to view the `index.html` file. For
-> more information, [check out this help article](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide).
 
 ## Resources
 
