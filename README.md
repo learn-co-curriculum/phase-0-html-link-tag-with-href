@@ -57,13 +57,29 @@ Once you have the HTML document open in your browser, you can make changes to it
 in a text editor, save the file, refresh the page in the browser, and see the
 changes.
 
-## Resources
+## Saving Your Work Remotely
 
-* [Mozilla Developer Network: HTML `<a>` Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+Currently, the work you've done on this assignmnent is only on your local
+machine. To preserve work on your GitHub fork, you will need to stage the
+changes you've made, commit them, and push the commit up to GitHub. Use
+the following commands to do this:
+
+```sh
+git add .
+git commit -m "Completed assignment"
+git push
+```
+
+If you visit your fork on GitHub, you should now see that _you've_ made the most
+recent commit, and your solution will be present in the files.
 
 ## Conclusion
 
 Here we saw how an attribute helps the `a` tag do its job, which is to link to
 another location. Now we can go on to explore some additional HTML tags.
+
+## Resources
+
+* [Mozilla Developer Network: HTML `<a>` Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
 [pview]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide  
