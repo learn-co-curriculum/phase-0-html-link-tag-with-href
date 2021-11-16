@@ -14,7 +14,7 @@ link.
 
 Fork and clone this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
-Code. Finally, run `bundle` to install the lab's dependencies.
+Code. Finally, run `npm install` to install the lab's dependencies.
 
 ## Write an `a` Tag to Create a Link
 
@@ -23,9 +23,10 @@ text between the `<a>` tag and the `</a>` tag) of `Flatiron School` anywhere in
 the file. Then set the `href` attribute of your new link element to
 `https://flatironschool.com`.
 
-You can run the tests with this lab via the `rspec` command. Make sure you save
-the file before running the test suite. Failing tests will provide helpful error
-messages that you can use to debug your code — read them closely for hints!
+You can run the tests with this lab via the `npm test` command. Make sure you
+save the file before running the test suite. Failing tests will provide helpful
+error messages that you can use to debug your code — read them closely for
+hints!
 
 ### Viewing Your Work in the Browser
 
@@ -38,8 +39,8 @@ depending on the environment you are in:
 
 For Mac users:
 
-- Open from the Terminal by running `open index.html` in the root directory
-  of this lab
+- Open from the Terminal by running `open index.html` in the root directory of
+  this lab
 - Use Finder to navigate to this lab's local folder and click the `index.html`
   file
 
